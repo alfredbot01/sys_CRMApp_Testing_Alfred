@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open CRM application and Save Leads",
+  "Type": "Screen",
+  "Id": "rSpNX72VckeZYiT4L6jSsw",
+  "Reference": "_xqikuTPbk-FPfF8-7xRxw/rSpNX72VckeZYiT4L6jSsw",
+  "ParentRef": "_xqikuTPbk-FPfF8-7xRxw/EjoyuFdcnkOeXn7shcbxKQ",
+  "Created": "2025-07-07T08:36:49.5223984Z",
+  "Updated": "2025-07-07T08:36:49.5223984Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
